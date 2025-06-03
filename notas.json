@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juana Gimenez",
+    "nota": 10,
+    "curso": "21A"
+  },
+  {
+    "id": 2,
+    "nombre": "Luciano Rodriguez",
+    "nota": 2,
+    "curso": "21B"
+  },
+  {
+    "id": 3,
+    "nombre": "Pepe Sanchez",
+    "nota": 9,
+    "curso": "20A"
+  },
+  {
+    "nombre": "Marcela Tiuro",
+    "nota": 8,
+    "curso": "20B",
+    "id": 4
+  }
+]
